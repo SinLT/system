@@ -1,0 +1,31 @@
+{
+  "name": "@sinlt/system",
+  "version": "1.0.1",
+  "author": "sevenyq",
+  "description": "system",
+  "main": "./index.js",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies": {},
+  "scripts": {},
+  "keywords": [
+    "system",
+    "print"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/SinLT/system/raw/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SinLT/system.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SinLT/system/issues"
+  },
+  "homepage": "https://github.com/SinLT/system#readme",
+  "license": "ISC"
+}
